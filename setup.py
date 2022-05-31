@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='py_thai_num',
-    version='0.2',
+    version='0.2.1',
     license='MIT',
     author="Worakrit Sittirit",
     author_email='kritsitti.coe@gmail.com',
