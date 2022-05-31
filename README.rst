@@ -1,4 +1,3 @@
-# py_thai_num
 Project
 ===============
 python lib for conversion Thai numerical to global numerical
@@ -18,4 +17,3 @@ Usage
     >>> from thai_to_int import py_thai_num
     >>> thai_to_int("1234")
     1234
-
