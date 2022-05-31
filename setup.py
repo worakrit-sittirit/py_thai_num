@@ -11,6 +11,6 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/worakrit-sittirit/py_thai_num.git',
     keywords='Thai number to eng',
-    
+    description= "python lib for conversion Thai numerical to global numerical.",
 
 )
