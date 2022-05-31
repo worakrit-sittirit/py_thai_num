@@ -20,11 +20,14 @@ Usage
 
 Function list
 =====
+
 py_thai_num:
-int_ret = to_int(str_in)
-str_ret = to_str(str_in)
-ch_ret = to_char(ch_in)
+
+    int_ret = to_int(str_in)
+    str_ret = to_str(str_in)
+    ch_ret = to_char(ch_in)
 
 file_thai_num:
-str_ret = to_str(file_in)
-to_char(file_in, file_out)
+
+    str_ret = to_str(file_in)
+    to_char(file_in, file_out)
